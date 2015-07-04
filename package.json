@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-duo",
+  "version": "0.0.0",
+  "description": "ESLint configuration for duo projects",
+  "main": "index.json",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duojs/eslint-config"
+  },
+  "keywords": [
+    "duo",
+    "eslint",
+    "config"
+  ],
+  "author": "Dominic Barnes <dominic@dbarnes.info>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duojs/eslint-config/issues"
+  },
+  "homepage": "https://github.com/duojs/eslint-config"
+}
