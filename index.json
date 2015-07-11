@@ -8,6 +8,7 @@
   "rules": {
     "consistent-return": 0,
     "curly": [ 2, "multi-line" ],
+    "generator-star-spacing": [ 2, "after" ],
     "no-octal-escape": 0,
     "no-process-exit": 0,
     "no-shadow": 0,
@@ -15,6 +16,13 @@
     "no-underscore-dangle": 0,
     "no-unused-expressions": 0,
     "no-use-before-define": [ 2, "nofunc" ],
+    "space-after-keywords": [ 2, "always" ],
+    "space-before-blocks": [ 2, "always" ],
+    "space-before-function-paren": [ 2, { "anonymous": "always", "named": "never" } ],
+    "space-in-parens": [ 2, "never" ],
+    "space-infix-ops": 2,
+    "space-return-throw-case": 2,
+    "space-unary-ops": 2,
     "strict": 0,
     "quotes": [ 2, "single" ]
   }
