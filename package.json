@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-duo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint configuration for duo projects",
   "main": "index.json",
   "scripts": {
