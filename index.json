@@ -9,6 +9,7 @@
     "complexity": [ 1, 5 ],
     "consistent-return": 0,
     "curly": [ 2, "multi-line" ],
+    "eqeqeq": [ 2, "allow-null" ],
     "generator-star-spacing": [ 1, "after" ],
     "max-len": [ 1, 80 ],
     "max-params": [ 1, 5 ],
